@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screenSaverSettings>
+	<activeScreenSavers>
+		<screenSaver>Grid Slide</screenSaver>
+		<screenSaver>Vertical-Scroll</screenSaver>
+		<screenSaver>Multi-Clock Full Screen</screenSaver>
+		<screenSaver>Single Full Screen</screenSaver>
+	</activeScreenSavers>
+	<timeSettings rotationPeriodBetweenScreenSavers="120000" rotationPeriodInScreenSaver="60000"/>
+	<clockMaxNumberPerWindow maxnum="25"/>
+	<groupSettings group="Antique Pocket Watch" keepWithinGroup="false"/>
+	<clockSettings displayBoxAroundTimeDate="false" frameAroundEach="false"/>
+</screenSaverSettings>

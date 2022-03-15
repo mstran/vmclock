@@ -1,0 +1,3125 @@
+<?xml version="1.0" encoding="UTF-8"?><digitalClock xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <clockDefinitions>
+	<clockDefinition>
+		<ID>a9bdddde-8511-4c95-b7b0-df36abe45a72</ID>
+		<category>VMCC Clock</category>
+		<name>Empire 1</name>
+		<size height="1200" width="1088"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>550</hourHandX>
+		<hourHandY>573</hourHandY>
+		<minHandX>550</minHandX>
+		<minHandY>573</minHandY>
+		<secHandX>550</secHandX>
+		<secHandY>573</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Empire1.xvg</svg>
+		<previewFile>/svg/desktop/preview/Empire1.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>b607f7aa-deb5-4ecd-a0a1-381cd54c4905</ID>
+		<category>Desktop Clock</category>
+		<name>SkyScraper</name>
+		<size height="850" width="851"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>425</hourHandX>
+		<hourHandY>388</hourHandY>
+		<minHandX>425</minHandX>
+		<minHandY>388</minHandY>
+		<secHandX>425</secHandX>
+		<secHandY>388</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/skyscraper.xvg</svg>
+		<previewFile>/svg/desktop/preview/skyscraper.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>a840d9fe-b009-43fc-b3c3-c62dbbb33427</ID>
+		<category>VMCC Clock</category>
+		<name>Square Maroon Yellow Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Maroon-YellowCircleFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Maroon-YellowCircleFace.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>30f63c9d-edc7-443d-9b83-0bacb8f1c870</ID>
+		<category>VMCC Clock</category>
+		<name>Square Maroon Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Maroon-GoldRaysFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Maroon-GoldRaysFace.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>d3926f9e-e6d6-4825-b5d6-6c472d75ab2e</ID>
+		<category>VMCC Clock</category>
+		<name>Square Maroon Gold Inner Ring Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Maroon-GoldInnerRing.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Maroon-GoldInnerRing.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>933f0973-bba4-4993-a9b0-411b65159680</ID>
+		<category>VMCC Clock</category>
+		<name>Square Maroon Gray Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Maroon-GrayFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Maroon-GrayFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>bb6af4c9-6d82-4f27-8a52-53607b017387</ID>
+		<category>VMCC Clock</category>
+		<name>Square Yellow Gray Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Yellow-GrayDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Yellow-GrayDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>4a28362f-3607-43ec-b27a-9830fe2bb954</ID>
+		<category>VMCC Clock</category>
+		<name>Square Yellow Gold Inner Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Yellow-GoldInnerDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Yellow-GoldInnerDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>dc88f134-c509-4ca6-b7c2-3a0da1e30b6f</ID>
+		<category>VMCC Clock</category>
+		<name>Square Yellow Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Yellow-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Yellow-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>37b5a90d-5514-4bd4-9ecf-2cac1a99175f</ID>
+		<category>VMCC Clock</category>
+		<name>Square Brown Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Brown-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Brown-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>3599e989-9bf3-4468-a225-97f26b3ecc06</ID>
+		<category>VMCC Clock</category>
+		<name>Square Tan Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Tan-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Tan-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>a2458120-3a92-4b7c-990b-d233634307ef</ID>
+		<category>VMCC Clock</category>
+		<name>Square Blue Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Blue-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Blue-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>9c06af33-d471-45fe-8abd-276d9c38f33d</ID>
+		<category>VMCC Clock</category>
+		<name>Square Light Blue Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-LtBlue-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-LtBlue-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>a438ce6b-7518-4a16-960f-e92a8f6af714</ID>
+		<category>VMCC Clock</category>
+		<name>Square Light Blue Gold Split Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-LtBlue-GoldSplitDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-LtBlue-GoldSplitDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>6e1cf538-d689-4273-93e8-dce7a6ddeac9</ID>
+		<category>VMCC Clock</category>
+		<name>Square Light Blue Gold Center Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-LtBlue-GoldCenterDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-LtBlue-GoldCenterDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>224388fc-2263-4740-beda-142500811aa4</ID>
+		<category>VMCC Clock</category>
+		<name>Square Green Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Green-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Green-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>7e7136ca-88bd-4294-bc66-87a1be08ce6b</ID>
+		<category>VMCC Clock</category>
+		<name>Square Maroon Red Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Maroon-RedCenterDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Maroon-RedCenterDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>971db8c6-a953-40ba-884c-77cb4525830a</ID>
+		<category>VMCC Clock</category>
+		<name>Square Maroon Gold Rays Dial Face</name>
+		<size height="930" width="1079"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>612</hourHandX>
+		<hourHandY>453</hourHandY>
+		<minHandX>612</minHandX>
+		<minHandY>453</minHandY>
+		<secHandX>612</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Square-Crimson-GoldRaysDialFace.xvg</svg>
+		<previewFile>/svg/desktop/preview/Square-Crimson-GoldRaysDialFace.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>c7a1d3cd-8856-4bea-95e2-06c2144acc56</ID>
+		<category>VMCC Clock</category>
+		<name>Easter Chick</name>
+		<size height="1306" width="1384"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>689</hourHandX>
+		<hourHandY>762</hourHandY>
+		<minHandX>689</minHandX>
+		<minHandY>762</minHandY>
+		<secHandX>689</secHandX>
+		<secHandY>762</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/easterchick.xvg</svg>
+		<previewFile>/svg/desktop/preview/easterchick.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>fb698098-5818-45ce-8e7a-e6d7d76061e2</ID>
+		<category>VMCC Clock</category>
+		<name>Easter Chick - Alternate Face</name>
+		<size height="1308" width="1402"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>687</hourHandX>
+		<hourHandY>768</hourHandY>
+		<minHandX>687</minHandX>
+		<minHandY>768</minHandY>
+		<secHandX>687</secHandX>
+		<secHandY>768</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/easterchickAlternate.xvg</svg>
+		<previewFile>/svg/desktop/preview/easterchickAlternate.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>2f1912b1-34b8-44d5-94c4-4cd4b9d4105e</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Red</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpireRed.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpireRed.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>09ac0cb8-7271-4964-a0f2-7c04088c7ed7</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Cream Teal</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpireCrmTeal.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpireCrmTeal.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>060e91ea-79d4-424e-9c77-db82c3bb5a1c</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Black</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpireBlack.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpireBlack.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>aea0758d-11ce-4f62-8043-34ecc7ee8191</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Dark Blue</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpireDkBlue.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpireDkBlue.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>c6f81dfe-c1f9-463b-9563-841996fc562b</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Light Blue</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpireLtBlue.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpireLtBlue.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>52a15f1d-8bef-4afa-923b-cfeb68d3bed4</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Purple</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpirePurple.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpirePurple.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>e07ab4ea-80df-4f22-a0f0-a543e013735d</ID>
+		<category>VMCC Clock</category>
+		<name>Mini Empire - Yellow</name>
+		<size height="868" width="703"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>349</hourHandX>
+		<hourHandY>385</hourHandY>
+		<minHandX>349</minHandX>
+		<minHandY>385</minHandY>
+		<secHandX>349</secHandX>
+		<secHandY>385</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/miniEmpireYellow.xvg</svg>
+		<previewFile>/svg/desktop/preview/miniEmpireYellow.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>18189ef3-dbbc-4e69-ac67-49314d2a4aa1</ID>
+		<category>VMCC Clock</category>
+		<name>Octagon - Blue</name>
+		<size height="1288" width="1251"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>630</hourHandX>
+		<hourHandY>614</hourHandY>
+		<minHandX>630</minHandX>
+		<minHandY>614</minHandY>
+		<secHandX>630</secHandX>
+		<secHandY>614</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/octagonBlue.xvg</svg>
+		<previewFile>/svg/desktop/preview/octagonBlue.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>0d61bf81-dd7e-4381-a0e1-7a923f557fbc</ID>
+		<category>VMCC Clock</category>
+		<name>Octagon - Red</name>
+		<size height="1288" width="1251"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>630</hourHandX>
+		<hourHandY>614</hourHandY>
+		<minHandX>630</minHandX>
+		<minHandY>614</minHandY>
+		<secHandX>630</secHandX>
+		<secHandY>614</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/octagonRed.xvg</svg>
+		<previewFile>/svg/desktop/preview/octagonRed.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>9e36716e-e031-4a01-86fa-b0dd9df52223</ID>
+		<category>VMCC Clock</category>
+		<name>Octagon - Yellow</name>
+		<size height="1288" width="1251"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>630</hourHandX>
+		<hourHandY>614</hourHandY>
+		<minHandX>630</minHandX>
+		<minHandY>614</minHandY>
+		<secHandX>630</secHandX>
+		<secHandY>614</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/octagonYellow.xvg</svg>
+		<previewFile>/svg/desktop/preview/octagonYellow.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>4d23a5a0-e1f0-4102-9518-fc6606eba5e7</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Blue-Cream</name>
+		<size height="1044" width="690"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>343</hourHandX>
+		<hourHandY>323</hourHandY>
+		<minHandX>343</minHandX>
+		<minHandY>323</minHandY>
+		<secHandX>343</secHandX>
+		<secHandY>323</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Blue-Creme.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Blue-Creme.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>a213f577-efa7-4c12-ae54-8737dac82033</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Blue-AviationFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>356</hourHandX>
+		<hourHandY>313</hourHandY>
+		<minHandX>356</minHandX>
+		<minHandY>313</minHandY>
+		<secHandX>356</secHandX>
+		<secHandY>313</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Blue-AviationDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Blue-AviationDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>1aaba5a8-50da-44bb-8184-280e2d50bd0e</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Red-AviationFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>356</hourHandX>
+		<hourHandY>331</hourHandY>
+		<minHandX>356</minHandX>
+		<minHandY>331</minHandY>
+		<secHandX>356</secHandX>
+		<secHandY>331</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Red-AviationDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Red-AviationDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>81e1ec46-0eb8-4eba-98c7-6351b06339dd</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Gold-SplitShellDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Blue-SplitShellGoldDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Blue-SplitShellGoldDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>0eeb2fc4-bd36-4429-a463-37ad8e634d9e</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Gray-SplitShellDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Blue-SplitShellGrayDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Blue-SplitShellGrayDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>2230c10f-97dd-4917-8ce9-27375079a8ac</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Blue-SplitShellDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Blue-SplitShellBlueDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Blue-SplitShellBlueDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>04f1c94f-195a-48da-9f4c-1512d681e627</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Orange-SplitShellDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Blue-SplitShellOrangeDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Blue-SplitShellOrangeDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>7d7efd18-609f-429e-9aa2-b8ef04f7f92a</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Orange-AviationFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>356</hourHandX>
+		<hourHandY>331</hourHandY>
+		<minHandX>356</minHandX>
+		<minHandY>331</minHandY>
+		<secHandX>356</secHandX>
+		<secHandY>331</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Orange-AviationDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Orange-AviationDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>8c40b913-3095-4a63-8f47-bb618fbf23f3</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Brown-SplitShellDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Brown-RaysDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Brown-RaysDial.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>ff99e5f8-d9cb-4927-b3ef-c02c6cc0a4ed</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Brown-RoundOrangelDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Brown-RoundedDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Brown-RoundedDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>4f0499f3-01ca-4ba2-9ab5-6da1b041ef03</ID>
+		<category>VMCC Clock</category>
+		<name>Radio 2 Brown-RaysWhiteDialFace</name>
+		<size height="1044" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>360</hourHandX>
+		<hourHandY>333</hourHandY>
+		<minHandX>360</minHandX>
+		<minHandY>333</minHandY>
+		<secHandX>360</secHandX>
+		<secHandY>333</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Radio2Brown-RayswhiteDial.xvg</svg>
+		<previewFile>/svg/desktop/preview/Radio2Brown-RayswhiteDial.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>7350346a-e230-4aac-9987-5a130e92da92</ID>
+		<category>VMCC Clock</category>
+		<name>Empire 2</name>
+		<size height="1200" width="1078"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>533</hourHandX>
+		<hourHandY>580</hourHandY>
+		<minHandX>533</minHandX>
+		<minHandY>580</minHandY>
+		<secHandX>533</secHandX>
+		<secHandY>580</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Empire2.xvg</svg>
+		<previewFile>/svg/desktop/preview/Empire2.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>4559df4f-950d-4a04-896b-b52768c33ed0</ID>
+		<category>VMCC Clock</category>
+		<name>Empire 3</name>
+		<size height="1200" width="1080"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>538</hourHandX>
+		<hourHandY>582</hourHandY>
+		<minHandX>538</minHandX>
+		<minHandY>582</minHandY>
+		<secHandX>538</secHandX>
+		<secHandY>582</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Empire3.xvg</svg>
+		<previewFile>/svg/desktop/preview/Empire3.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>4fd2120f-ea54-4272-9641-4e7a4d46804a</ID>
+		<category>Desktop Clock</category>
+		<name>Lacknet NeonGlo</name>
+		<size height="565" width="600"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>304</hourHandX>
+		<hourHandY>234</hourHandY>
+		<minHandX>304</minHandX>
+		<minHandY>234</minHandY>
+		<secHandX>304</secHandX>
+		<secHandY>234</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/LacknerNeonGlo.xvg</svg>
+		<previewFile>/svg/desktop/preview/LacknerNeonGlo.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>de6d1b86-2077-44b6-a082-cc4ec81a3b08</ID>
+		<category>Desktop Clock</category>
+		<name>Smug</name>
+		<size height="481" width="459"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>231</hourHandX>
+		<hourHandY>304</hourHandY>
+		<minHandX>231</minHandX>
+		<minHandY>304</minHandY>
+		<secHandX>231</secHandX>
+		<secHandY>304</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.implementation.desktop.renderer.SmugRenderer</renderer>
+		<svg>/svg/desktop/smug.xvg</svg>
+		<previewFile>/svg/desktop/preview/smug.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>de6d1b86-2177-45b2-a982-cc2ec21a2b08</ID>
+		<category>Desktop Clock</category>
+		<name>Ingraham Cowboy</name>
+		<size height="575" width="540"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>272</hourHandX>
+		<hourHandY>287</hourHandY>
+		<minHandX>272</minHandX>
+		<minHandY>287</minHandY>
+		<secHandX>0</secHandX>
+		<secHandY>0</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.implementation.desktop.renderer.IngrahamCowboyRenderer</renderer>
+		<svg>/svg/desktop/IngrahamCowboy.xvg</svg>
+		<previewFile>/svg/desktop/preview/IngrahamCowboy.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>226aef95-8fa2-4f6c-9474-d1ad63d7eb3b</ID>
+		<category>Desktop Clock</category>
+		<name>Diehl Rocket</name>
+		<size height="557" width="552"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>274</hourHandX>
+		<hourHandY>276</hourHandY>
+		<minHandX>274</minHandX>
+		<minHandY>276</minHandY>
+		<secHandX>274</secHandX>
+		<secHandY>276</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/DiehlRocket.xvg</svg>
+		<previewFile>/svg/desktop/preview/DiehlRocket.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>f7ad5902-6f0f-4530-9b95-06390d79c2ee</ID>
+		<category>Desktop Clock</category>
+		<name>Hammond Desktop</name>
+		<size height="767" width="844"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>421</hourHandX>
+		<hourHandY>405</hourHandY>
+		<minHandX>421</minHandX>
+		<minHandY>405</minHandY>
+		<secHandX>421</secHandX>
+		<secHandY>405</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/HammondDesktop.xvg</svg>
+		<previewFile>/svg/desktop/preview/HammondDesktop.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>b5b9ed5f-2896-470d-8481-e76dfa8cd752</ID>
+		<category>VMCC Clock</category>
+		<name>Sweetpea</name>
+		<size height="665" width="800"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>403</hourHandX>
+		<hourHandY>326</hourHandY>
+		<minHandX>403</minHandX>
+		<minHandY>326</minHandY>
+		<secHandX>403</secHandX>
+		<secHandY>326</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Sweetpea1.xvg</svg>
+		<previewFile>/svg/desktop/preview/Sweetpea1.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>36984bfa-d2d7-450d-b34b-e1de98cd3209</ID>
+		<category>Desktop Clock</category>
+		<name>JazDeco</name>
+		<size height="564" width="538"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>OneSecondEvent</eventType>
+		<hourHandX>267</hourHandX>
+		<hourHandY>257</hourHandY>
+		<minHandX>267</minHandX>
+		<minHandY>257</minHandY>
+		<secHandX>0</secHandX>
+		<secHandY>0</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/JazDeco.xvg</svg>
+		<previewFile>/svg/desktop/preview/JazDeco.png</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>b539ed2f-2829-470d-8221-e7ccfa8cd011</ID>
+		<category>Desktop Clock</category>
+		<name>Simple Bakelite Alarm Clock</name>
+		<size height="442" width="432"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>218</hourHandX>
+		<hourHandY>216</hourHandY>
+		<minHandX>218</minHandX>
+		<minHandY>216</minHandY>
+		<secHandX>218</secHandX>
+		<secHandY>216</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/SimpleBakelite.xvg</svg>
+		<previewFile>/svg/desktop/preview/SimpleBakelite.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>b820ed2f-2844-421d-8ca1-e92e38cd011</ID>
+		<category>Desktop Clock</category>
+		<name>Bayard Alarm Clock</name>
+		<size height="544" width="508"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>OneSecondEvent</eventType>
+		<hourHandX>253</hourHandX>
+		<hourHandY>272</hourHandY>
+		<minHandX>253</minHandX>
+		<minHandY>272</minHandY>
+		<secHandX>0</secHandX>
+		<secHandY>0</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Bayard1.xvg</svg>
+		<previewFile>/svg/desktop/preview/Bayard1.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>1239e24f-cc29-ac0d-8121-33ccde8cd022</ID>
+		<category>Desktop Clock</category>
+		<name>Bond SkyScraper</name>
+		<size height="562" width="582"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>296</hourHandX>
+		<hourHandY>236</hourHandY>
+		<minHandX>296</minHandX>
+		<minHandY>236</minHandY>
+		<secHandX>296</secHandX>
+		<secHandY>236</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/desktop/Bond.xvg</svg>
+		<previewFile>/svg/desktop/preview/Bond.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>b8c7a3a2-322b-455a-aab3-558dc1fcd3db</ID>
+		<category>Miscellaneous</category>
+		<name>Heuer Racing Dashboard Clock</name>
+		<size height="523" width="422"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>211</hourHandX>
+		<hourHandY>316</hourHandY>
+		<minHandX>211</minHandX>
+		<minHandY>316</minHandY>
+		<secHandX>211</secHandX>
+		<secHandY>316</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/miscellaneous/w7051a_single.xvg</svg>
+		<previewFile>/svg/miscellaneous/preview/w7051a_single.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>a87703a2-220b-433a-acb1-359dc1d253db</ID>
+		<category>Aviation</category>
+		<name>Waltham 8 DAY CDIA</name>
+		<size height="513" width="514"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>255</hourHandX>
+		<hourHandY>255</hourHandY>
+		<minHandX>255</minHandX>
+		<minHandY>255</minHandY>
+		<secHandX>255</secHandX>
+		<secHandY>255</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/aviation/waltham/Waltham8DayCDIA.xvg</svg>
+		<previewFile>/svg/aviation/preview/waltham/Waltham8DayCDIA.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>4fa2fe20-737a-483d-afaf-54876ffc3c3b</ID>
+		<category>Aviation</category>
+		<name>Waltham 8 DAY</name>
+		<size height="631" width="627"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>314</hourHandX>
+		<hourHandY>297</hourHandY>
+		<minHandX>314</minHandX>
+		<minHandY>297</minHandY>
+		<secHandX>314</secHandX>
+		<secHandY>196</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/aviation/waltham/Waltham8Day.xvg</svg>
+		<previewFile>/svg/aviation/preview/waltham/Waltham8Day.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>25024466-641c-4edf-9445-9e106112feef</ID>
+		<category>Aviation</category>
+		<name>WW1 RAF MK</name>
+		<size height="450" width="480"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>OneSecondEvent</eventType>
+		<hourHandX>233</hourHandX>
+		<hourHandY>224</hourHandY>
+		<minHandX>233</minHandX>
+		<minHandY>224</minHandY>
+		<secHandX>233</secHandX>
+		<secHandY>155</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/aviation/raf/Mk1.xvg</svg>
+		<previewFile>/svg/aviation/preview/raf/Mk1.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>48b6de2b-b6de-4141-bac1-85ddf0b503c7</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Swiss World Cities</name>
+		<size height="976" width="700"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>352</hourHandX>
+		<hourHandY>628</hourHandY>
+		<minHandX>352</minHandX>
+		<minHandY>628</minHandY>
+		<secHandX>352</secHandX>
+		<secHandY>775</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>317</strengthIndX>
+		<strengthIndY>330</strengthIndY>
+		<strengthBaseDegrees>290</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.implementation.pocketwatch.renderer.W8464aRenderer</renderer>
+		<svg>/svg/pocketwatch/W8464a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/W8464a.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>318d53d9c-d051-4009-883d-e6fabe0d3d16</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 9</name>
+		<size height="554" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>OneSecondEvent</eventType>
+		<hourHandX>226</hourHandX>
+		<hourHandY>332</hourHandY>
+		<minHandX>226</minHandX>
+		<minHandY>332</minHandY>
+		<secHandX>0</secHandX>
+		<secHandY>0</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>317</strengthIndX>
+		<strengthIndY>330</strengthIndY>
+		<strengthBaseDegrees>290</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W6993c.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/W6993c.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>2be6bbb3-69a1-4481-baa4-03b484a0da8d </ID>
+		<category>Antique Pocket Watch</category>
+		<name>Lemonia Nero</name>
+		<size height="1424" width="1000"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>TenthSecondEvent</eventType>
+		<hourHandX>494</hourHandX>
+		<hourHandY>917</hourHandY>
+		<minHandX>494</minHandX>
+		<minHandY>917</minHandY>
+		<secHandX>494</secHandX>
+		<secHandY>917</secHandY>
+		<timerMinuteHandX>495</timerMinuteHandX>
+		<timerMinuteHandY>1132</timerMinuteHandY>
+		<timerSecondHandX>495</timerSecondHandX>
+		<timerSecondHandY>698</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0.6</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>6</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0.6</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.implementation.pocketwatch.W8347a</implementation>
+		<renderer>com.microstran.implementation.pocketwatch.renderer.W8347aRenderer</renderer>
+		<svg>/svg/pocketwatch/W8347a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/W8347a.png</previewFile>
+	</clockDefinition>		
+	<clockDefinition>
+		<ID>32337585-ab14-4f0e-94c2-d2984ebcbd7</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Waltham Pocketwatch</name>
+		<size height="807" width="632"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>317</hourHandX>
+		<hourHandY>483</hourHandY>
+		<minHandX>317</minHandX>
+		<minHandY>483</minHandY>
+		<secHandX>317</secHandX>
+		<secHandY>625</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>317</strengthIndX>
+		<strengthIndY>330</strengthIndY>
+		<strengthBaseDegrees>290</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W6467a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/W6467a.png</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>329a8085-ff04-4f0e-91a7-e45350ebcbd7</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 1</name>
+		<size height="606" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>222</hourHandX>
+		<hourHandY>383</hourHandY>
+		<minHandX>222</minHandX>
+		<minHandY>383</minHandY>
+		<secHandX>223</secHandX>
+		<secHandY>473</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7386a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/W7386a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>a35f81d5-1e70-4d0f-b241-fd85e4aea60b</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 2</name>
+		<size height="435" width="579"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>232</hourHandX>
+		<hourHandY>210</hourHandY>
+		<minHandX>232</minHandX>
+		<minHandY>210</minHandY>
+		<secHandX>232</secHandX>
+		<secHandY>210</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>233</moonPhaseDialX>
+		<moonPhaseDialY>290</moonPhaseDialY>
+		<degreesPerMoonPhase>-22.5</degreesPerMoonPhase>
+		<degreePerDayOfMonth>11.61</degreePerDayOfMonth>
+		<degreePerMonthOfYear>30</degreePerMonthOfYear>
+		<degreePerDayOfWeek>51.43</degreePerDayOfWeek>
+		<implementation>com.microstran.implementation.pocketwatch.W6207a</implementation>
+		<renderer>com.microstran.implementation.pocketwatch.renderer.W6207aRenderer</renderer>
+		<svg>/svg/pocketwatch/W6207a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w6207a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>2e7b7d6d-5a67-4f4c-9723-6fda09f1af1c</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 3</name>
+		<size height="537" width="567"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>265</hourHandX>
+		<hourHandY>271</hourHandY>
+		<minHandX>265</minHandX>
+		<minHandY>271</minHandY>
+		<secHandX>194</secHandX>
+		<secHandY>271</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>336</strengthIndX>
+		<strengthIndY>271</strengthIndY>
+		<strengthBaseDegrees>315</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/C633a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/c633a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>7a455987-dabc-4f55-96da-4065bc68a4d6</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Elgin Bus Drivers Watch</name>
+		<size height="615" width="490"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>244</hourHandX>
+		<hourHandY>244</hourHandY>
+		<minHandX>244</minHandX>
+		<minHandY>244</minHandY>
+		<secHandX>244</secHandX>
+		<secHandY>137</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/elgin/ElginBusDriversWatch.xvg</svg>
+		<previewFile>/svg/pocketwatch/elgin/preview/ElginBusDriversWatch.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>9152b129-fe3f-4e21-8bbf-2b13704e1dae</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 4</name>
+		<size height="640" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>221</hourHandX>
+		<hourHandY>410</hourHandY>
+		<minHandX>221</minHandX>
+		<minHandY>410</minHandY>
+		<secHandX>222</secHandX>
+		<secHandY>502</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>221</moonPhaseDialX>
+		<moonPhaseDialY>410</moonPhaseDialY>
+		<degreesPerMoonPhase>-22.5</degreesPerMoonPhase>
+		<degreePerDayOfMonth>11.61</degreePerDayOfMonth>
+		<degreePerMonthOfYear>30</degreePerMonthOfYear>
+		<degreePerDayOfWeek>51.43</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W772a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w772a.jpg</previewFile>
+	</clockDefinition>	
+	<clockDefinition>
+		<ID>6c2ffd08-cba9-48d7-ab08-f0e1f6cc079a</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 5</name>
+		<size height="601" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>228</hourHandX>
+		<hourHandY>378</hourHandY>
+		<minHandX>228</minHandX>
+		<minHandY>378</minHandY>
+		<secHandX>227</secHandX>
+		<secHandY>472</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W6682a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w6682a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>b9de5ea9-b668-4f2a-bcb3-29541b72ebdc</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 6</name>
+		<size height="630" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>222</hourHandX>
+		<hourHandY>399</hourHandY>
+		<minHandX>222</minHandX>
+		<minHandY>399</minHandY>
+		<secHandX>222</secHandX>
+		<secHandY>503</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7402a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7402a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>31f403f2-25b3-4259-bd04-c27728398ed7</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 7</name>
+		<size height="759" width="540"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>270</hourHandX>
+		<hourHandY>495</hourHandY>
+		<minHandX>270</minHandX>
+		<minHandY>495</minHandY>
+		<secHandX>270</secHandX>
+		<secHandY>495</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7515a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7515a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>34439fca-028a-485c-8f72-a8750c5d679c</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 8</name>
+		<size height="619" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>OneSecondEvent</eventType>
+		<hourHandX>220</hourHandX>
+		<hourHandY>393</hourHandY>
+		<minHandX>220</minHandX>
+		<minHandY>393</minHandY>
+		<secHandX>0</secHandX>
+		<secHandY>0</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7555a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7555a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>cc1daa4d-3c23-4175-b1e5-6441793c8c86</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 9</name>
+		<size height="640" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>223</hourHandX>
+		<hourHandY>416</hourHandY>
+		<minHandX>223</minHandX>
+		<minHandY>416</minHandY>
+		<secHandX>223</secHandX>
+		<secHandY>511</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7598a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7598a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>d866b91f-8912-48a3-a1aa-a511346468d7</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 10</name>
+		<size height="609" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>225</hourHandX>
+		<hourHandY>396</hourHandY>
+		<minHandX>225</minHandX>
+		<minHandY>384</minHandY>
+		<secHandX>224</secHandX>
+		<secHandY>469</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>3</degreePerMinute>
+		<degreePerMinutePerHour>0.25</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.05</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.implementation.pocketwatch.renderer.W7448aRenderer</renderer>
+		<svg>/svg/pocketwatch/W7448a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7448a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>9be55a32-0fef-4d2f-a780-bbe0471644ae</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 12</name>
+		<size height="585" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>OneSecondEvent</eventType>
+		<hourHandX>225</hourHandX>
+		<hourHandY>231</hourHandY>
+		<minHandX>225</minHandX>
+		<minHandY>231</minHandY>
+		<secHandX>0</secHandX>
+		<secHandY>0</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>228</strengthIndX>
+		<strengthIndY>316</strengthIndY>
+		<strengthBaseDegrees>216</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>0</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W6625a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w6625a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>f110b9d6-fd9b-48df-9858-95836d481e0a</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 13</name>
+		<size height="594" width="466"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>231</hourHandX>
+		<hourHandY>358</hourHandY>
+		<minHandX>231</minHandX>
+		<minHandY>358</minHandY>
+		<secHandX>313</secHandX>
+		<secHandY>319</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>-1.5</degreePerFractionalSecond>
+		<degreePerSecond>-6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7588a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7588a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>9ac9cf6d-9dc2-431b-bfac-baafa48a15fe</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 14</name>
+		<size height="536" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>229</hourHandX>
+		<hourHandY>320</hourHandY>
+		<minHandX>229</minHandX>
+		<minHandY>320</minHandY>
+		<secHandX>227</secHandX>
+		<secHandY>414</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>229</strengthIndX>
+		<strengthIndY>219</strengthIndY>
+		<strengthBaseDegrees>240</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W6500a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w6500a.jpg</previewFile>
+	</clockDefinition>
+	
+	<clockDefinition>
+		<ID>d237a3b6-2e8a-449e-b876-31b2c349a45a</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 16</name>
+		<size height="450" width="629"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>273</hourHandX>
+		<hourHandY>229</hourHandY>
+		<minHandX>273</minHandX>
+		<minHandY>229</minHandY>
+		<secHandX>272</secHandX>
+		<secHandY>315</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>0</strengthIndX>
+		<strengthIndY>0</strengthIndY>
+		<strengthBaseDegrees>0</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/pocketwatch/W7472a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/w7472a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>64cd47e9-320f-497c-a40a-fc2cb4dc5bc2</ID>
+		<category>Antique Pocket Watch</category>
+		<name>Pocket Watch Style 18</name>
+		<size height="623" width="500"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>259</hourHandX>
+		<hourHandY>356</hourHandY>
+		<minHandX>259</minHandX>
+		<minHandY>356</minHandY>
+		<secHandX>261</secHandX>
+		<secHandY>453</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>255</strengthIndX>
+		<strengthIndY>262</strengthIndY>
+		<strengthBaseDegrees>6</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.implementation.pocketwatch.renderer.R1572aRenderer</renderer>
+		<svg>/svg/pocketwatch/R1572a.xvg</svg>
+		<previewFile>/svg/pocketwatch/preview/r1572a.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>319d2d83-a373-4205-b8a4-7d0db44bdea7</ID>
+		<category>Ship Chronometer</category>
+		<name>Longine Ship Chronometer</name>
+		<size height="432" width="423"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>210</hourHandX>
+		<hourHandY>224</hourHandY>
+		<minHandX>210</minHandX>
+		<minHandY>224</minHandY>
+		<secHandX>212</secHandX>
+		<secHandY>279</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>210</strengthIndX>
+		<strengthIndY>172</strengthIndY>
+		<strengthBaseDegrees>315</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/shipchronometer/longines_1.xvg</svg>
+		<previewFile>/svg/shipchronometer/preview/longines_1.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>7349a830-d959-4181-9717-d978f786ad6f</ID>
+		<category>Ship Chronometer</category>
+		<name>Hamilton Ship Chronometer</name>
+		<size height="435" width="450"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>222</hourHandX>
+		<hourHandY>224</hourHandY>
+		<minHandX>222</minHandX>
+		<minHandY>224</minHandY>
+		<secHandX>221</secHandX>
+		<secHandY>273</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>222</strengthIndX>
+		<strengthIndY>170</strengthIndY>
+		<strengthBaseDegrees>35</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/shipchronometer/Hamilton1.xvg</svg>
+		<previewFile>/svg/shipchronometer/preview/Hamilton1.jpg</previewFile>
+	</clockDefinition>
+	<clockDefinition>
+		<ID>0f53afef-5766-4d1f-aa3f-1d9580e2759f</ID>
+		<category>Ship Chronometer</category>
+		<name>Longine Ship Chronometer 2</name>
+		<size height="635" width="655"/>
+		<scale allowScale="true" preserveAspect="true"/> 
+		<eventType>QuarterSecondEvent</eventType>
+		<hourHandX>324</hourHandX>
+		<hourHandY>325</hourHandY>
+		<minHandX>324</minHandX>
+		<minHandY>325</minHandY>
+		<secHandX>325</secHandX>
+		<secHandY>381</secHandY>
+		<timerMinuteHandX>0</timerMinuteHandX>
+		<timerMinuteHandY>0</timerMinuteHandY>
+		<timerSecondHandX>0</timerSecondHandX>
+		<timerSecondHandY>0</timerSecondHandY>
+		<strengthIndX>324</strengthIndX>
+		<strengthIndY>273</strengthIndY>
+		<strengthBaseDegrees>315</strengthBaseDegrees>	
+		<degreePerHour>30</degreePerHour> 
+		<degreePerMinute>6</degreePerMinute>
+		<degreePerMinutePerHour>0.5</degreePerMinutePerHour> 
+		<degreePerSecondPerHour>0.1</degreePerSecondPerHour>; 
+		<degreePerFractionalSecond>1.5</degreePerFractionalSecond>
+		<degreePerSecond>6</degreePerSecond>
+		<timerDegreePerSecond>0</timerDegreePerSecond>
+		<timerDegreePerFractionalSecond>0</timerDegreePerFractionalSecond>
+		<moonPhaseDialX>0</moonPhaseDialX>
+		<moonPhaseDialY>0</moonPhaseDialY>
+		<degreesPerMoonPhase>0</degreesPerMoonPhase>
+		<degreePerDayOfMonth>0</degreePerDayOfMonth>
+		<degreePerMonthOfYear>0</degreePerMonthOfYear>
+		<degreePerDayOfWeek>0</degreePerDayOfWeek>
+		<implementation>com.microstran.core.clock.Clock</implementation>
+		<renderer>com.microstran.core.clock.Renderer</renderer>
+		<svg>/svg/shipchronometer/longines_2.xvg</svg>
+		<previewFile>/svg/shipchronometer/preview/longines_2.jpg</previewFile>
+	</clockDefinition>
+ </clockDefinitions>	
+</digitalClock>

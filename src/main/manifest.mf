@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: stranm
+Created-By: 11.0.13+8-Ubuntu-0ubuntu1.20.04 (UbuntuOpenJDK)
+Main-Class:com.microstran.implementation.LGClockSwingSingle
+Class-Path:VMCCDC.jar lib/
